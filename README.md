@@ -13,7 +13,7 @@ Este projeto é uma aplicação web para o gerenciamento de estudantes e salas, 
 
 1. Clone o repositório:
    ```bash
-   git clone <URL-do-repositório>
+   git clone <[URL-do-repositório](https://github.com/GabrielCapoia-Dev/Crud-Estudantes.git)>
 
 2. Instale as dependencias:
     ```bash
